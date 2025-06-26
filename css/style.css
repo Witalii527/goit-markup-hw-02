@@ -97,21 +97,21 @@ body {
 
 .services__info-title {
   font-size: 20px;
-  font-weight: 500px;
+  font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.4;
+  letter-spacing: 0.4px;
 }
 
 p {
   color: #434455;
   line-height: 1.5;
-  letter-spacing: 0.32;
+  letter-spacing: 0.32px;
 }
 
 .about-us__title {
   text-align: center;
   font-size: 36px;
-  font-weight: 700px;
+  font-weight: 700;
   line-height: 1.1;
   letter-spacing: 0.72px;
 }
@@ -127,14 +127,14 @@ p {
   font-size: 36px;
   font-weight: 700;
   line-height: 1.1;
-  letter-spacing: 0.72;
+  letter-spacing: 0.72px;
 }
 
 .portfolio__name {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.4;
+  letter-spacing: 0.4px;
 }
 /* Footer */
 
@@ -168,5 +168,5 @@ p {
 .footer__text {
   color: #f4f4fd;
   line-height: 1.5;
-  letter-spacing: 0.32;
+  letter-spacing: 0.32px;
 }
