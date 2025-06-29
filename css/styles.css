@@ -75,8 +75,6 @@ body {
 
 .hero__button {
   align-items: flex-start;
-  padding-inline: 32px;
-  padding-block: 16px;
   background: #4d5ae5;
 }
 
