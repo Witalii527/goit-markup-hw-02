@@ -18,7 +18,7 @@ body {
 .header__logo-link {
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
-  font-style: 18px;
+  font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.03em;
@@ -113,6 +113,10 @@ body {
   line-height: 1.11;
   letter-spacing: 0.72px;
   text-transform: capitalize;
+}
+
+.about-us__item {
+  background-color: #ffffff;
 }
 
 .about-us__name {
